@@ -33,14 +33,14 @@ upper = 120
 
 ## The output will be:
 
-Prime numbers between 100 and 120 are
-101
-103
-107
-109
-113
+    Prime numbers between 100 and 120 are
+    101
+    103
+    107
+    109
+    113
 
-- How It Works
+- How It Works:
   The script works by iterating through each number in the specified range (lower to upper). For each number, it checks if the number has any divisors other than 1 and itself. If no divisors are found, the number is prime and is printed.
 
 # Contributing
